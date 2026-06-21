@@ -1,0 +1,10 @@
+{
+    "theta": 0.1,
+    "delta": 0.7,
+    "lookback_months": 36,
+    "min_history_days": 504,
+    "max_weight": 0.10,
+    "shrink": 0.20,
+    "cost_rate": 0.002,
+    "decile_count": 10
+}
