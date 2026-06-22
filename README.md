@@ -214,8 +214,4 @@ ST因子策略Skill/
 ├── requirements.txt       ← Python依赖
 ├── data/
 │   └── input/             ← 用户放置数据文件
-├── output/                ← 输出结果（pivot.csv）
-└── (原始文件)
-    ├── ST因子计算.py       ← 原始单文件版本
-    └── ST检验.py           ← 原始单文件版本
 ```
